@@ -4,3 +4,6 @@
   - Critical Value
   - Confidence Interval
   - Statistical Power
+- Two Sample Z-Test
+- One Sample Z-Test Proportion
+- Two Sample Z-Test Proportion
